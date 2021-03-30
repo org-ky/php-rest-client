@@ -1,1 +1,1 @@
-# php-rest-client.php
+# php-rest-client
